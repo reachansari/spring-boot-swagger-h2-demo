@@ -2,6 +2,10 @@
 A Simple spring boot app service example using Swagger API and H2.
 
 ## Swagger:
+
+URL: `http://localhost:8080/swagger-ui.html`
+
+
 Screen 1:
 
 ![](./img/swagger-1.PNG)
@@ -12,7 +16,7 @@ Screen 2:
 
 ## H2 Console:
 
-`http://localhost:8080/h2-console`
+URL: `http://localhost:8080/h2-console`
 
 Screen 1: 
 
