@@ -1,7 +1,8 @@
-package com.progressivecoder.demo.springbootstarter;
+package com.example.demo.swagger;
 
-import com.progressivecoder.demo.springbootstarter.entities.Mobile;
-import com.progressivecoder.demo.springbootstarter.repositories.MobileRepository;
+import com.example.demo.swagger.entities.Mobile;
+import com.example.demo.swagger.repo.MobileRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

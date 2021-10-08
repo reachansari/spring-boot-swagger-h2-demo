@@ -1,7 +1,8 @@
-package com.progressivecoder.demo.springbootstarter.controllers;
+package com.example.demo.swagger.controllers;
 
-import com.progressivecoder.demo.springbootstarter.dto.MobileQueryDTO;
-import com.progressivecoder.demo.springbootstarter.services.MobileQueryService;
+import com.example.demo.swagger.dto.MobileQueryDTO;
+import com.example.demo.swagger.services.MobileQueryService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

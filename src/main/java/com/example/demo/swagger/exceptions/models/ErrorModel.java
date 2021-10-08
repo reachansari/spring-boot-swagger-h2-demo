@@ -1,4 +1,4 @@
-package com.progressivecoder.demo.springbootstarter.exceptions.models;
+package com.example.demo.swagger.exceptions.models;
 
 import org.springframework.http.HttpStatus;
 

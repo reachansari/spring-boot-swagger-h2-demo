@@ -1,11 +1,12 @@
-package com.progressivecoder.demo.springbootstarter.services;
+package com.example.demo.swagger.services;
 
-import com.progressivecoder.demo.springbootstarter.dto.MobileCreateDTO;
-import com.progressivecoder.demo.springbootstarter.dto.MobileQueryDTO;
-import com.progressivecoder.demo.springbootstarter.dto.MobileUpdateDTO;
-import com.progressivecoder.demo.springbootstarter.entities.Status;
-import com.progressivecoder.demo.springbootstarter.entities.Mobile;
-import com.progressivecoder.demo.springbootstarter.repositories.MobileRepository;
+import com.example.demo.swagger.dto.MobileCreateDTO;
+import com.example.demo.swagger.dto.MobileQueryDTO;
+import com.example.demo.swagger.dto.MobileUpdateDTO;
+import com.example.demo.swagger.entities.Mobile;
+import com.example.demo.swagger.entities.Status;
+import com.example.demo.swagger.repo.MobileRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

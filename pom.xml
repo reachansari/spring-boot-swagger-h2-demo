@@ -8,10 +8,11 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.progressivecoder.demo</groupId>
-	<artifactId>spring-boot-starter</artifactId>
+	<groupId>com.example.demo.swagger</groupId>
+	<artifactId>spring-boot-swagger-h2-demo</artifactId>
+
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-starter</name>
+	<name>spring-boot-swagger-h2-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

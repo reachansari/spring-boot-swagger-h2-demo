@@ -1,4 +1,4 @@
-package com.progressivecoder.demo.springbootstarter.dto;
+package com.example.demo.swagger.dto;
 
 import java.util.UUID;
 

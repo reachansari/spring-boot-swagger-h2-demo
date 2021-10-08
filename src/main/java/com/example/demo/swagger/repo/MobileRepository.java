@@ -1,9 +1,10 @@
-package com.progressivecoder.demo.springbootstarter.repositories;
+package com.example.demo.swagger.repo;
 
-import com.progressivecoder.demo.springbootstarter.entities.Mobile;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
+
+import com.example.demo.swagger.entities.Mobile;
 
 import java.util.List;
 import java.util.UUID;

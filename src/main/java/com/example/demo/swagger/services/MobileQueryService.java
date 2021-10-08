@@ -1,9 +1,9 @@
-package com.progressivecoder.demo.springbootstarter.services;
-
-import com.progressivecoder.demo.springbootstarter.dto.MobileQueryDTO;
+package com.example.demo.swagger.services;
 
 import java.util.List;
 import java.util.UUID;
+
+import com.example.demo.swagger.dto.MobileQueryDTO;
 
 public interface MobileQueryService {
 

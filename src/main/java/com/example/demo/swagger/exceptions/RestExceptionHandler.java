@@ -1,4 +1,4 @@
-package com.progressivecoder.demo.springbootstarter.exceptions;
+package com.example.demo.swagger.exceptions;
 
 import javax.persistence.EntityNotFoundException;
 
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-import com.progressivecoder.demo.springbootstarter.exceptions.models.ErrorModel;
+import com.example.demo.swagger.exceptions.models.ErrorModel;
 
 @RestControllerAdvice
 public class RestExceptionHandler extends ResponseEntityExceptionHandler {

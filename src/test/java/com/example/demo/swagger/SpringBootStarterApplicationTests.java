@@ -1,4 +1,4 @@
-package com.progressivecoder.demo.springbootstarter;
+package com.example.demo.swagger;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

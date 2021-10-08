@@ -1,4 +1,4 @@
-package com.progressivecoder.demo.springbootstarter.entities;
+package com.example.demo.swagger.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
