@@ -1,1 +1,1 @@
-# spring-boot-swagger-demo
+# spring-boot-swagger-h2-demo
